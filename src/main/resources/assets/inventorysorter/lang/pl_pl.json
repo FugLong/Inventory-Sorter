@@ -18,6 +18,7 @@
   "inventorysorter.cmd.doubleClickSort.set": "Zmieniono sortowanie dwukrotnym kliknięciem na %s",
   "inventorysorter.config.scrollbehaviour.free": "Swobodne",
   "inventorysorter.config.scrollbehaviour.modifier": "Modyfikator",
+  "inventorysorter.config.scrollbehaviour.modifier.tooltip": "",
   "inventorysorter.config.separateButton.tooltip": "Wyświetl osobny przycisk sortowania w ekwipunku gracza",
   "inventorysorter.config.sortPlayerInventory.tooltip": "Przydatne, jeżeli chcesz sortować ekwipunek gracza oddzielnie od pojemników",
   "inventorysorter.config.sortHovered": "Sortowanie tylko ekwipunku pod kursorem myszy"
